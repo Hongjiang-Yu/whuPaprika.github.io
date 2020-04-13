@@ -8,9 +8,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * 2008.09--2012.06  Wuhan University 
 
 ## Award
-* 福布斯排行榜落榜人士
-* 蒙特利尔大胃王比赛海选
-* 武汉大学火炬杯排球赛并列第五名举球手
+* Wuhan University Torch Cup Volleyball Games NO.5 Setter  
 
 ## Commands
 
