@@ -12,8 +12,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * 蒙特利尔大胃王比赛海选
 * 武汉大学火炬杯排球赛并列第五名举球手
 
-
-
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
