@@ -1,6 +1,18 @@
-# Welcome to MkDocs
+# Explore the World with Hongjiang Yu
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## Education 
+* 2016.09--Date  Concordia University
+* 2012.09--2016.06  Wuhan University 
+* 2008.09--2012.06  Wuhan University 
+
+## Award
+* 福布斯排行榜落榜人士
+* 蒙特利尔大胃王比赛海选
+* 武汉大学火炬杯排球赛并列第五名举球手
+
+
 
 ## Commands
 
