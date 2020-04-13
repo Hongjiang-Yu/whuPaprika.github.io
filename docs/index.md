@@ -7,6 +7,7 @@
 * 2008.09--2012.06  Wuhan University 
 
 ## Award
-* Wuhan University Torch Cup Volleyball Games NO.5 Setter  
-* Montreal Big Stomach King Participant
+* 2014,2013 National Scholarship for Postgraduate Students  
+* 2012 Outstanding Graduates, Wuhan University
+* 2014 The First Prize, National Postgraduate Mathematical Contest in Modeling
 
