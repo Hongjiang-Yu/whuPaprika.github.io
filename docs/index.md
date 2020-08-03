@@ -3,8 +3,8 @@
 
 ## 教育背景
 
-|  |  |   |
-| :-- | :--: | --: |
+|  |  |   |  |
+| :-- | :--: | :--: |--: |
 | 2016.09-至今 | ![mkdocs](images/cu.jpg){: style="height:30px;width:30px"}| **康考迪亚大学** <br> 电子与计算机工程学院 | 博士 |
 | 2012.09-2016.06| ![mkdocs](images/whu.jpg){: style="height:30px;width:30px"}|  **武汉大学** <br> 计算机学院 国家多媒体软件工程技术研究中心 | 硕士 (推免) |
 | 2008.09-2012.06 |![mkdocs](images/whu.jpg){: style="height:30px;width:30px"}| **武汉大学** <br> 电子信息学院 | 学士 |
