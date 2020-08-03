@@ -3,8 +3,6 @@ site_name: 余洪江
 theme:
   name: material
 
-
-
 nav:
   - 中文简历: index.md
 
