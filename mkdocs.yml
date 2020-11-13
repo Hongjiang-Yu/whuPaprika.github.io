@@ -1,11 +1,12 @@
-site_name: 余洪江
+site_name: Hongjiang Yu
 
 theme:
   name: material
 
 nav:
-  - 中文简历: index.md
-  - CV: resume.md
+  - CV: index.md
+  - 中文简历: resume.md
+
 
 extra_css:
   - css/extra.css

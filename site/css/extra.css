@@ -11,3 +11,7 @@ table th {
 table tr{
     font-size: medium !important;
 }
+
+.md-header{
+   background-color: #3399FF !important;
+}
